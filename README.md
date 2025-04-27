@@ -9,7 +9,8 @@ Recepcion de datos:
 echo $str
 
 
+#
 http://www.hackingyseguridad.com/
-
+#
 #hackingyseguridad
-
+#
